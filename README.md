@@ -10,7 +10,10 @@ I have more than 800 hours of programming with Javascript, HTML5, nodeJS, among 
 I am currently available for a job within the IT world, being able to add certain value to the company/startup as well as a responsible, careful employee and above all someone willing to continue learning and growing within the field of programming.</p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
+<p align="center">Soy estudiante de primer año de ingeniería informática y actualmente estoy estudiando programación a través de varios cursos.
+Cuento con más de 800 horas de programación con Javascript, HTML5, nodeJS, entre otras herramientas, dentro de las cuales he realizado diferentes proyectos en los que he implementado diversas tecnologías y funcionalidades, pudiendo trabajar tanto en grupo como individualmente. Me considero resolutivo y capaz de gestionar tanto los tiempos de trabajo como el adecuado cumplimiento en tiempo y forma. 
+Actualmente estoy disponible para un puesto de trabajo dentro del mundo TI, pudiendo aportar cierto valor a la empresa/startup además de ser un empleado responsable, cuidadoso y sobre todo alguien dispuesto a seguir aprendiendo y creciendo dentro del campo de la programación.</p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 - languages:
