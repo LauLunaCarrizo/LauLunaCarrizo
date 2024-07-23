@@ -21,7 +21,7 @@ Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gi
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
  - Frameworks/Libraries:
 
-  <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> <img src="https://img.shields.io/badge/-jest*-white?logo=jest&logoColor=C21325&style=for-the-badge" alt="jest"/> <img src="https://img.shields.io/badge/sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white" alt="Mongoose"/> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FAFAFA" alt="redux"/> <img src="https://img.shields.io/badge/mongoose%20-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/> <img src="https://img.shields.io/badge/-webpack-52B0E7.svg?logo=webpack&logoColor=8DD6F9&style=for-the-badge" alt="webpack"/></a>
+   <img src="https://img.shields.io/badge/-jest*-white?logo=jest&logoColor=C21325&style=for-the-badge" alt="jest"/> <img src="https://img.shields.io/badge/sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white" alt="Mongoose"/> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FAFAFA" alt="redux"/> <img src="https://img.shields.io/badge/mongoose%20-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/> <img src="https://img.shields.io/badge/-webpack-52B0E7.svg?logo=webpack&logoColor=8DD6F9&style=for-the-badge" alt="webpack"/></a>
 
 - Hosting:
 
@@ -29,7 +29,7 @@ Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gi
 
 - Databases:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
 
 - Application and Tools:
 
